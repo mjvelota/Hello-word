@@ -1,2 +1,7 @@
 # Hello-word
-Just another repository
+Newb
+
+This is Marc Joven Velota typing and trying to learn new things.
+A CTY student at Seneca College Newnham Campus.
+OPS435 NBB
+
